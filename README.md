@@ -2,8 +2,7 @@
 👀 I’m interested in perpetual learning and knowledge sharing, with a focus on computer engineering, Java, Python, machine learning, and data science.
 🌱 I’m currently learning and exploring diverse technologies and domains to expand my expertise further.
 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology and contribute to collective growth.
-📫 You can reach me via [insert preferred contact method here].
-😄 Pronouns: [insert preferred pronouns here].
+📫 You can reach me via smsahaswari@gmail.com.
 ⚡ Fun fact: I approach challenges with curiosity and determination, constantly seeking innovative solutions and unraveling complex algorithms
 
 <!---
