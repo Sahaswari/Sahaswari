@@ -6,7 +6,7 @@
 📫 You can reach me via smsahaswari@gmail.com.
 ⚡ Fun fact: I approach challenges with curiosity and determination, constantly seeking innovative solutions and unraveling complex algorithms
 
-skills : Java, react
+skills : Java, react , c#
 
 <!---
 Sahaswari/Sahaswari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
