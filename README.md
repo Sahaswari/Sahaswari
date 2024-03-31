@@ -7,7 +7,10 @@
 ⚡ Fun fact: I approach challenges with curiosity and determination, constantly seeking innovative solutions and unraveling complex algorithms
 
 
-skills : Java, react, c# , c++
+skills : Net , Blazor , SQLite
+         MERN (MongoDB, Express, React.js, and Node.js)
+         Flutter with Dart , C#, C++, Java
+         Machine Learning, Python
 
 
 <!---
