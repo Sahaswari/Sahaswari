@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahaswari Senanayaka</h1>
-<h3 align="center">Computer engineering undergraduate (3rd year - 2024) with an interest in DevOps, software development, web development, and mobile development. I am passionate about exploring new technologies and have actively engaged in various projects showcasing my skills.</h3>
+<h3 align="center">Computer Engineering Undergraduate with an interest in DevOps, software development, web development, and mobile development. I am passionate about exploring new technologies and have actively engaged in various projects showcasing my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaswari&label=Profile%20views&color=0e75b6&style=flat" alt="sahaswari" /> </p>
 
