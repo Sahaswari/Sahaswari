@@ -31,5 +31,3 @@
 <p><a href="https://ko-fi.com/Sahaswari"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sahaswari" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahaswari&show_icons=true&locale=en&layout=compact" alt="sahaswari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahaswari&" alt="sahaswari" /></p>
