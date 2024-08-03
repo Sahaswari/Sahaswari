@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahaswari Senanayaka</h1>
-<h3 align="center">Computer Engineering Undergraduate with an interest in DevOps, software development, web development, and mobile development. I am passionate about exploring new technologies and have actively engaged in various projects showcasing my skills.</h3>
 
+<h3 align="center">Computer Engineering Undergraduate with an interest in DevOps, software development, web development, and mobile development. I am passionate about exploring new technologies and have actively engaged in various projects showcasing my skills.</h3>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaswari&label=Profile%20views&color=0e75b6&style=flat" alt="sahaswari" /> </p>
 
 - 🔭 I’m currently working on [ERP System for Department Portal](https://github.com/Sahaswari/ERP_New_MicroServices.git)
